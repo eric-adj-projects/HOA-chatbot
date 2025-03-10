@@ -6,7 +6,7 @@ IMPORTANT NOTICE: This repository contains only mockups, documentation, and demo
 
 A custom chatbot designed specifically for the Glenn Dale Commons Homeowner Association (HOA) to provide instant, accurate information to community residents. This assistant specializes in answering questions about HOA bylaws and Prince George County codes.
 
-![Homepage Screenshot](assets/images/screenshots/HOA-chatbot-homepage.png)
+![Homepage Screenshot](assets/HOA-chatbot-homepage.png)
 
 ## Key Benefits
 
