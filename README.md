@@ -24,11 +24,11 @@ This project utilizes:
 
 ## Features
 
-Check out the [FEATURES.md](docs/features.md) file for a detailed breakdown of functionality.
+Check out the [features](docs/features.md) file for a detailed breakdown of functionality.
 
 ## FAQ
 
-Common questions about this project are answered in our [FAQ.md](docs/faq.md) file.
+Common questions about this project are answered in the [faq](docs/faq.md) file.
 
 ## 📄 License
 © [2025] Eric A. All Rights Reserved.
