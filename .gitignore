@@ -1,53 +1,30 @@
-# Python-related
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Virtual Environments
-venv/
-ENV/
+# Dependencies
+node_modules/
 .env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
-# IDE-related
+# Build files
+build/
+dist/
+out/
+
+# API keys and sensitive info
+**/config.js
+**/secrets.json
+
+# Actual implementation code - keep private
+src/
+server/
+api/
+
+# Local development files
+.DS_Store
 .idea/
 .vscode/
-*.swp
-*.swo
-
-# OS-related
-.DS_Store
-Thumbs.db
-
-# Application-specific
 *.log
-*.xlsx
-*.docx
-!assets/templates/*.docx
-temp/
-data/
-config.ini
-secrets.json
-
-# Streamlit-specific
-.streamlit/
-
-# Large files
-*.model
-*.bin
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
