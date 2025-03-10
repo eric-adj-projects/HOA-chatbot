@@ -1,57 +1,34 @@
-IMPORTANT NOTICE: This repository contains only mockups, documentation, and demonstration assets for the FAST application. The actual source code is not publicly available. This repository is intended for showcase and demonstration purposes only.
-# FAST - FMSG Accomplishment STAR Tool
+IMPORTANT NOTICE: This repository contains only mockups, documentation, and demonstration assets for the HOA Chatbot application. The actual source code is not publicly available. This repository is intended for showcase and demonstration purposes only.
 
-<div align="center">
-  <img src="assets/FAST.png" width="80%"/>
-</div>
+# Glenn Dale Commons Homeowner Assistant
 
-<div align="center">
-  <h3>Transform accomplishment details into professional STAR format narratives</h3>
-</div>
+## Project Overview
 
-## 📋 Overview
-FAST (FMSG Accomplishment STAR Tool) is a Streamlit-based application that automates the conversion of raw accomplishment details into structured STAR format narratives (Situation, Task, Action, Result). Designed to streamline the documentation process for performance reviews, promotions, and recognition programs.
+A custom chatbot designed specifically for the Glenn Dale Commons Homeowner Association (HOA) to provide instant, accurate information to community residents. This assistant specializes in answering questions about HOA bylaws and Prince George County codes.
 
-<div align="center">
-  
-</div>
+![Homepage Screenshot](assets/images/screenshots/HOA-chatbot-homepage.png)
 
-## ✨ Key Features
-- **Automated STAR Generation**: Convert plain text into well-structured STAR format narratives
-- **Parallel Processing**: Generate all STAR components simultaneously with asynchronous architecture
-- **Professional Output**: Ensures third-person, professionally formatted narratives
-- **Excel Export**: One-click export with optimized formatting for easy sharing
-- **Template Integration**: Access to pre-formatted templates for various accomplishment types
-- **Performance Optimized**: Rapid processing with resource caching and optimized initialization
+## Key Benefits
 
-## 🚀 Impact
-- Reduces accomplishment writing time by 75% (from 2 hours to 30 minutes per document)
-- Improves document quality by 85% through consistent STAR methodology adherence
-- Saves an estimated 3,000+ hours of collective writing time annually
-- Improves organizational efficiency by 40% through standardized documentation
+- **24/7 Information Access**: Homeowners can get answers to common questions anytime
+- **Reduced Administrative Burden**: Decreases the volume of repetitive inquiries to HOA staff
+- **Consistent Information Delivery**: Ensures all residents receive the same accurate information
+- **Improved Resident Satisfaction**: Provides immediate responses to resident concerns
 
-## 📊 How It Works 
-1. Input Accomplishment Details
-<div align="center">
-</div>
+## Technology
 
-2. Generate STAR Components
-<div align="center">
-</div>
+This project utilizes:
+- OpenAI Custom GPT platform
+- Natural Language Processing (NLP)
+- Advanced prompt engineering techniques
 
-3. Export and Share
-<div align="center">
-</div>
+## Features
 
-## 📚 Documentation
-- [Feature Details](Docs/features.md)
-- [FAQ](Docs/faq.md)
+Check out the [FEATURES.md](FEATURES.md) file for a detailed breakdown of functionality.
 
-## 🛠️ Technology Stack
-- **Frontend**: Streamlit
-- **NLP Processing**: Custom-engineered prompting techniques
-- **Data Processing**: Asynchronous Python architecture
-- **Export Functionality**: Pandas, OpenPyXL
+## FAQ
+
+Common questions about this project are answered in our [FAQ.md](FAQ.md) file.
 
 ## 📄 License
 © [2025] Eric A. All Rights Reserved.
